@@ -1,0 +1,21 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: yellow;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.welcome {
+    text-decoration: underline;
+}
+
+.code-photo {
+    max-width: 300px;
+    float: left;
+}
+
+.list {
+    clear: both;
+}
