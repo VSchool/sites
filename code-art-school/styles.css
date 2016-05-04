@@ -19,3 +19,8 @@ body {
 .list {
     clear: both;
 }
+
+.fake-link {
+    text-decoration: underline;
+    cursor: pointer;
+}
